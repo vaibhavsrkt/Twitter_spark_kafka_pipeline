@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 16 18:20:25 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0177-aae4-19b6-000003d391a8 
+on database directory /home/sunbeam/spark-3.0.1-bin-hadoop2.7/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@62fd9dae 
+Loaded from file:/home/sunbeam/spark-3.0.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_275-8u275-b01-0ubuntu1~18.04-b01
+user.dir=/home/sunbeam/allpractice/twitter-kafka-spark-kafka-spark-hive-tableau
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-65-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
